@@ -209,7 +209,7 @@ const Home = () => {
           The blockchain for data
         </div>
         <div className="text-[#9B9B9B] text-[25px] leading-[30px] w-full text-center font-light">
-          Flare is an EVM smart contract platform with two enrished data
+          Flare is an EVM smart contract platform with two enriched data
           acquisition protocols
         </div>
         <div className="flex flex-col md:flex-row justify-center gap-9 w-fit mt-10 p-5">
